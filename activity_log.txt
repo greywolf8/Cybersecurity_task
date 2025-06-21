@@ -4,3 +4,4 @@ Improve log message format — 2025-04-26 23:45:21
 Chore: tidy up script — 2025-04-27 00:30:13
 Minor style cleanup — 2025-05-05 22:44:55
 Polish README formatting — 2025-06-02 17:24:50
+Update helper notes — 2025-06-21 19:26:39
